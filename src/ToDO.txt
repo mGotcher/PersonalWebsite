@@ -1,0 +1,1 @@
+So the goal of this website is to build a tutorial for building a react website as we begin to build our react website. 
